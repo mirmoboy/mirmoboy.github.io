@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.23dd8338c64a3f35d5a2e5f488a4cc2c.js"
+  "/precache-manifest.aea1129003a91cd36aadd4f0204631bc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mirmoboy.github.io"});
